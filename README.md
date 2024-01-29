@@ -2,9 +2,9 @@
 Bonjour, merci d'avoir téléchargé notre jeu !
 Veuillez bien suivre ces instructions afin de pouvoir lancer le jeu :
 
--Installer le module PyGame (via pip install)
--Lancer main.py (avec un IDE comme VSCODE par exemple)
--Amusez vous !
+- Installer le module PyGame (via pip install)
+- Lancer main.py (avec un IDE comme VSCODE par exemple)
+- Amusez vous !
 
 ## NOTES :
 - vous pouvez lire la db simplement avec sqlite
